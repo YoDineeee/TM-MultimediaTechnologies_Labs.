@@ -1,0 +1,38 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/exports/statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+Linux-6.13.7-arch1-1-x86_64-with-glibc2.41 x86_64
+Ren'Py 8.3.6.25022803
+the shadows of truth 1.0
+Wed Mar 26 17:07:58 2025

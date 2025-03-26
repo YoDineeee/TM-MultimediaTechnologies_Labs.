@@ -1,0 +1,5293 @@
+2025-03-26 13:08:20 UTC
+Linux-6.13.7-arch1-1-x86_64-with-glibc2.41
+Ren'Py 8.3.6.25022803
+
+Early init took 0.03s
+Loading error handling took 0.03s
+Loading script took 0.15s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.02s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.10s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1000, 1024) drawable=(1000, 1024)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.01s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 230.94s
+Loading error handling took 0.02s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.01s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 265.74s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 268.86s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 270.46s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 279.45s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 287.44s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 289.19s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 335.33s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 49: play requires a channel
+    play 
+         ^
+DPI scale factor: 1.000000
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 338.50s
+Loading error handling took 0.02s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 49: play requires a file
+    play voice
+              ^
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 340.13s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 346.29s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 349.43s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 369.69s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 672.81s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 94: play requires a channel
+    play 
+         ^
+DPI scale factor: 1.000000
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 677.42s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 683.55s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 685.21s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 700.40s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 712.58s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1163.61s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 247: play requires a channel
+    play 
+         ^
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1175.75s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.03s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 1226.56s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1228.22s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 247: expected simple expression
+    play music "audio/good_ending.mp3" fadein
+                                             ^
+DPI scale factor: 1.000000
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1232.85s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 247: expected simple expression
+    play music "audio/good_ending.mp3" fadein 
+                                              ^
+DPI scale factor: 1.000000
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 1234.45s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.03s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 4717.24s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 83: play requires a file
+    play music 
+               ^
+DPI scale factor: 1.000000
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4724.86s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4816.71s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 74: play requires a file
+    play music 
+               ^
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4818.33s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4823.16s
+Loading error handling took 0.02s
+Loading script took 0.10s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4862.43s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4978.34s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 141: play requires a channel
+    play 
+         ^
+DPI scale factor: 1.000000
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4979.99s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 141: play requires a file
+    play audio
+              ^
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4987.65s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 4998.29s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5001.51s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5013.68s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5024.34s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.02s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5027.61s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5032.27s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 228: play requires a channel
+    play 
+         ^
+DPI scale factor: 1.000000
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5039.87s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5043.01s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5058.18s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5064.32s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5075.03s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5096.97s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5116.90s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5124.63s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 173: Indentation mismatch.
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5127.76s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5135.48s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.08s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5305.61s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5323.96s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 5355.62s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5358.78s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 5360.45s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6035.92s
+Loading error handling took 0.02s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6046.62s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6049.79s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6164.23s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6168.92s
+Loading error handling took 0.02s
+Loading script took 0.12s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 120: play requires a file
+    play audio 
+               ^
+DPI scale factor: 1.000000
+Interface start took 0.12s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6725.08s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 120: play requires a file
+    play audio 
+               ^
+DPI scale factor: 1.000000
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6726.71s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 120: play requires a file
+    play audio 
+               ^
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6729.84s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 120: expecting name after dot.
+    play audio wind.
+                    ^
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6731.47s
+Loading error handling took 0.02s
+Loading script took 0.10s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.06s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6743.75s
+Loading error handling took 0.02s
+Loading script took 0.04s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 120: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+                    play audio "audio/sfx/wind.mp3
+DPI scale factor: 1.000000
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6745.39s
+Loading error handling took 0.02s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6759.11s
+Loading error handling took 0.02s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6772.81s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 132: Line is indented, but the preceding scene statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    play music "audio/chill.mp3"
+    ^
+DPI scale factor: 1.000000
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6774.48s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6779.16s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 132: Line is indented, but the preceding scene statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    stop music
+    ^
+DPI scale factor: 1.000000
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6780.79s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6788.44s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6791.67s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 126: Line is indented, but the preceding scene statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    stop music
+    ^
+DPI scale factor: 1.000000
+Interface start took 0.09s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6793.27s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6796.45s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6807.12s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 130: play requires a file
+    play music 
+               ^
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6811.77s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6816.41s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6825.59s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 6957.06s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7009.88s
+Loading error handling took 0.02s
+Loading script took 0.10s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7014.60s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 5: expected 'word' not found.
+    default 
+            ^
+DPI scale factor: 1.000000
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7019.27s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 5: expected '=' not found.
+    default fi
+              ^
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7020.92s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 5: expected expression
+    default firsttime = 
+                        ^
+DPI scale factor: 1.000000
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7027.08s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/exports/statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+While running game code:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7048.28s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/exports/statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+While running game code:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7051.42s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 112: reached end of line when expecting ':'.
+    if play music "audio/chill.mp3"
+                                   ^
+DPI scale factor: 1.000000
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7054.60s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 112: reached end of line when expecting ':'.
+    if  play music "audio/chill.mp3"
+                                    ^
+DPI scale factor: 1.000000
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7101.26s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 112: reached end of line when expecting ':'.
+    if firsttime play music "audio/chill.mp3"
+                                             ^
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7108.90s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 112: reached end of line when expecting ':'.
+    if firsttime == false play music "audio/chill.mp3"
+                                                      ^
+DPI scale factor: 1.000000
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7110.52s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 112: reached end of line when expecting ':'.
+    if firsttime == false) play music "audio/chill.mp3"
+                                                       ^
+DPI scale factor: 1.000000
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7112.15s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 112: reached end of line when expecting ':'.
+    if (firsttime == false) play music "audio/chill.mp3"
+                                                        ^
+DPI scale factor: 1.000000
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7116.78s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/exports/statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+While running game code:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7119.96s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/exports/statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+While running game code:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7121.56s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/exports/statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+While running game code:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7153.23s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/exports/statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+While running game code:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7159.43s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/exports/statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+While running game code:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7164.08s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/exports/statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+While running game code:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7177.75s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.02s
+Index archives took 0.00s
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+
+Full traceback:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/ast.py", line 834, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1184, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/exports/statementexports.py", line 372, in execute_default_statement
+    i.execute_default(start)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/python.py", line 1208, in py_eval_bytecode
+    return eval(bytecode, globals, locals)
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+
+While running game code:
+  File "renpy/common/00start.rpy", line 193, in script
+    python:
+  File "renpy/common/00start.rpy", line 194, in <module>
+    renpy.execute_default_statement(True)
+  File "game/script.rpy", line 5, in execute_default
+    default firsttime = true
+  File "game/script.rpy", line 5, in <module>
+    default firsttime = true
+NameError: name 'true' is not defined
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7188.41s
+Loading error handling took 0.01s
+Loading script took 0.04s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 5: is not terminated with a newline. (Check strings and parenthesis.)
+(Perhaps you left out a " at the end of the first line.)
+    default firsttime = "true
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7190.01s
+Loading error handling took 0.01s
+Loading script took 0.09s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7200.73s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7203.94s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.02s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7208.73s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 7243.80s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.03s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 8733.70s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 182: play requires a channel
+    play  "audio/sfx/restart.mp3"
+          ^
+DPI scale factor: 1.000000
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 8742.85s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 182: play requires a channel
+    play  "audio/sfx/restart.mp3"
+          ^
+DPI scale factor: 1.000000
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 8774.50s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 8776.19s
+Loading error handling took 0.01s
+Loading script took 0.05s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+
+File "game/script.rpy", line 181: stop requires a channel
+    stop 
+         ^
+DPI scale factor: 1.000000
+Interface start took 0.08s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 8777.83s
+Loading error handling took 0.02s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.03s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 8987.88s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 8999.03s
+Loading error handling took 0.01s
+Loading script took 0.10s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 9435.26s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.06s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9438.44s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9449.13s
+Loading error handling took 0.01s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9450.79s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.04s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9468.99s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9470.65s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.02s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9473.80s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9475.45s
+Loading error handling took 0.02s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9656.18s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.02s
+Save screen analysis took 0.03s
+Prepare screens took 0.06s
+Save pyanalysis. took 0.01s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9662.40s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9803.15s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9806.38s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9812.56s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 9829.69s
+Loading error handling took 0.01s
+Loading script took 0.06s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 10181.79s
+Loading error handling took 0.01s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.07s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.05s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Early init took 10346.80s
+Loading error handling took 0.02s
+Loading script took 0.07s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.05s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Resetting cache.
+Early init took 10348.45s
+Loading error handling took 0.02s
+Loading script took 0.08s
+Loading save slot metadata took 0.01s
+Loading persistent took 0.00s
+Running init code took 0.02s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Reloading save slot metadata took 0.01s
+Index archives took 0.00s
+Backing up script files to '/home/george/.renpy/backups/the shadows of truth':
+Dump and make backups took 0.03s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc took 0.04s
+DPI scale factor: 1.000000
+Creating interface object took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.01s
+Running _start took 0.00s
+Interface start took 0.04s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'Intel'"
+Renderer: b'Mesa Intel(R) Iris(R) Xe Graphics (ADL GT2)'
+Version: b'4.6 (Compatibility Profile) Mesa 25.0.1-arch1.2'
+Display Info: None
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Screen sizes: virtual=(1820, 1024) physical=(1920, 1044) drawable=(1920, 1044)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+
+Full traceback:
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/bootstrap.py", line 359, in bootstrap
+    renpy.main.main()
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/main.py", line 666, in main
+    renpy.persistent.update(True)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/persistent.py", line 434, in update
+    save()
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/persistent.py", line 456, in save
+    renpy.loadsave.location.save_persistent(compressed)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/savelocation.py", line 622, in save_persistent
+    l.save_persistent(data)
+  File "/home/george/Downloads/renpy-8.3.6-sdk/renpy/savelocation.py", line 426, in save_persistent
+    with open(fn_tmp, "wb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/george/projects/tm/the shadows of truth/game/saves/persistent.1742994500.tmp'
+
+While running game code:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/george/projects/tm/the shadows of truth/game/saves/persistent.1742994500.tmp'
