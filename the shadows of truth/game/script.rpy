@@ -132,7 +132,8 @@ label routes:
                 "..."
                 scene city_bandits
                 play music "audio/danger.mp3"
-                "They have to run back!"
+                "Bandits!"
+                "Run back!"
                 $ firsttime = "false"
                 jump choose
             "Mythical Forest":
@@ -177,12 +178,12 @@ label chess_puzzle:
         "White to move, find next best move"
         menu:
             "Knight to D3":
-                play music "audio/sfx/restart.mp3" 
+                play music "audio/sfx/restart.mp3" noloop
                 "Noo! It's the wrong move"
                 "Did you hear something?"
                 jump ending2
             "Pawn to Queen G8":
-                play music "audio/sfx/restart.mp3"
+                play music "audio/sfx/restart.mp3" noloop
                 "Noo! It's the wrong move"
                 "Did you hear something?"
                 jump ending2
@@ -193,7 +194,7 @@ label chess_puzzle:
                 "Now for the next one"
                 jump puzzle2
             "King to B1":
-                play music "audio/sfx/restart.mp3"
+                play music "audio/sfx/restart.mp3" noloop
                 "Noo! It's the wrong move"
                 "Did you hear something?"
                 jump ending2
@@ -202,18 +203,21 @@ label chess_puzzle:
         "White to move, do not lose"
         menu:
             "King to F1":
+                play music "audio/sfx/restart.mp3" noloop
                 "Noo! It's the wrong move"
                 "Did you hear something?"
                 jump ending2
             "King to F2":
+                play music "audio/sfx/restart.mp3" noloop
                 "Noo! It's the wrong move"
                 "Did you hear something?"
                 jump ending2
             "Knight to D5":
+                play music "audio/sfx/restart.mp3" noloop
                 "Noo! It's the wrong move"
                 "Did you hear something?"
                 jump ending2
-            "Knight to G6":
+            "Knight to G6": #correct
                 "Nice one! We are one step closer"
                 jump puzzle3
     label puzzle3:
@@ -223,19 +227,21 @@ label chess_puzzle:
         "Black to move, mate in 1"
         menu:
             "Queen to D2":
+                play music "audio/sfx/fail.mp3" noloop fadeout 0.5
                 "I can't believe we lost to this one"
                 jump ending2
-            "Queen to G5":
+            "Queen to G5": #correct
                 "Hooray! We solved all the puzzles"
                 jump true_secret_room
             "Pawn to G5":
+                play music "audio/sfx/fail.mp3" noloop fadeout 0.5
                 "I can't believe we lost to this one"
                 jump ending2
 
 
 label ending2:
+    play music "audio/ending.mp3" fadein 0.5
     scene ending2 with vpunch
-    play music "audio/ending.mp3"
     "The entrance door gets shut down"
     "They are now stuck here forever, leaving their own footprint, hoping someday somebody will find them"
     "The End."
