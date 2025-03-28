@@ -1,6 +1,25 @@
 ﻿define a = Character("Aria", color="#e4418d")
 define e = Character("Elias", color="#397be7")
 image firstride = Movie(play="intro.mp4", size=(1820, 1024))
+# Define character images
+image aria normal = "aria_normal.png"
+image aria surprised = "aria_surprised.png"
+image aria uneasy = "aria_uneasy.png"
+
+image elias annoyed = "elias_annoyed.png"
+image elias chill = "elias_chill.png"
+image elias fight = "elias_fight.png"
+image elias meditating = "elias_meditating.png"
+image elias normal = "elias_normal.png"
+
+# Define transforms for consistent positioning
+transform aria_right:
+    zoom 1.7
+    ypos 1300
+    right
+
+transform elias_left:
+    left
 
 
 default firsttime = "true"
