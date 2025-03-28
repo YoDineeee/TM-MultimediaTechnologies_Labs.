@@ -9,7 +9,7 @@ label start:
     play music "audio/intro.mp3" volume 1.0
     "40 years later after WW3"
     stop music
-    $ renpy.movie_cutscene("intro_fixed.webm")
+    $ renpy.movie_cutscene("intro.mp4")
 
     label arias_room:
         play music "audio/aria.mp3"
