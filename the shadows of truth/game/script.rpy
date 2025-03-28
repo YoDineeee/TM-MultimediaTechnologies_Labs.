@@ -288,32 +288,29 @@ label true_secret_room:
     scene true_secret_room
     play music "audio/true_secret_room.mp3"
     "..."
-    "They search room, gathering enough evidence"
-    e "Hmm a red button"
+    "They search the room, gathering enough evidence."
+    e "Hmm... a red button?"
     scene redbutton
     "Should I press it?"
     menu:
         "Yes":
             jump ending3
         "No":
-            "Yes better not"
+            "Better not..."
             scene continue_research
-            "They continue on looking for documents, everything left by her father"
-            "How Do you say 'D4C' (hint its jojo meme) "
-            scene MachinePassword
+            "They continue looking for documents, everything left by her father."
+            "How do you say 'D4C'? (Hint: It's a JoJo meme)"
+
+            scene password with fade
             menu:
                 "Dirty Deeds Done Dirt Cheap":
                     jump ending4
-                    play music "ending4music.mp3" fadein 1.0
                 "D 4 C":
                     jump ending4
-                    play music "ending4music.mp3" fadein 1.0
                 "Divorceee":
                     jump ending4
-                    play music "ending4music.mp3" fadein 1.0
-                "All of them are correct ":
+                "All of them are correct":
                     jump ending5
-                    play music "audio/good_ending2.mp3" fadein 1.0
 
 label ending3:
     stop music
@@ -328,11 +325,10 @@ label ending3:
     $ MainMenu(confirm=False)()
 
 label ending4:
-    stop music
+    play music "audio/ending4music.mp3" fadein 1.0
     scene black with fade
     $ renpy.movie_cutscene("images/Ending4.webm")
-    scene ending4
-    play music "audio/ending4music.mp3" fadein 1.0
+    scene ending4 with fade 
     "In the end they Failed"
     "Soooo CLose yet Sooo far "
 
