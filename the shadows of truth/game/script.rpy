@@ -5,11 +5,12 @@ image firstride = Movie(play="intro.mp4", size=(1820, 1024))
 default firsttime = "true"
 
 label start:
+     
+    $ renpy.movie_cutscene("images/intro.webm")
     scene akira
     play music "audio/intro.mp3" volume 1.0
     "40 years later after WW3"
-    stop music
-    $ renpy.movie_cutscene("intro.mp4")
+    
 
     label arias_room:
         play music "audio/aria.mp3"
@@ -240,6 +241,10 @@ label chess_puzzle:
 
 
 label ending2:
+    stop music
+    scene black with fade
+    $ renpy.movie_cutscene("images/Ending2.webm")
+
     play music "audio/ending.mp3" fadein 0.5
     scene ending2 with vpunch
     "The entrance door gets shut down"
@@ -265,6 +270,9 @@ label true_secret_room:
             "They continue on looking for documents, everything left by her father"
             jump ending4
 label ending3:
+    stop music
+    scene black with fade
+    $ renpy.movie_cutscene("images/Ending3.webm")
     scene frozen with fade
     play music "audio/ending.mp3"
     "They get frozen to death in a blink of the eye"
@@ -274,6 +282,9 @@ label ending3:
     $ MainMenu(confirm=False)()
 
 label ending4:
+    stop music
+    scene black with fade
+    $ renpy.movie_cutscene("images/Ending4.webm")
     scene ending4
     play music "audio/good_ending2.mp3" fadein 1.0
     "In the end they succeded"
