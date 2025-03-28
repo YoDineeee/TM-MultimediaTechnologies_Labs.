@@ -2,6 +2,7 @@
 define e = Character("Elias", color="#397be7")
 image firstride = Movie(play="intro.mp4", size=(1820, 1024))
 
+
 default firsttime = "true"
 
 label start:
@@ -239,18 +240,48 @@ label chess_puzzle:
                 "I can't believe we lost to this one"
                 jump ending2
 
-
 label ending2:
-    stop music
-    scene black with fade
-    $ renpy.movie_cutscene("images/Ending2.webm")
 
     play music "audio/ending.mp3" fadein 0.5
     scene ending2 with vpunch
-    "The entrance door gets shut down"
-    "They are now stuck here forever, leaving their own footprint, hoping someday somebody will find them"
-    "The End."
+    "The entrance door gets shut down."
+    "They are now stuck here forever, leaving their own footprint, hoping someday somebody will find them."
+
+    stop music
+    scene black with fade  
+    
+    # Video playback (ensure file is in game directory)
+    $ renpy.movie_cutscene("Ending2.webm")  # Not in images/ folder!
+    
+    # Post-video transition
+    play music "audio/Heaven.mp3" fadein 0.5
+    scene frozen with fade
+    show bg frozen with dissolve  # Assuming 'bg frozen' is fullscreen
+    
+    scene afterlife 
+
+    show boy at right
+    e "Where are we?!"
+    
+    show girl at left
+    a "IDK... I think we’re in some kind of Domain Expansion or something."
+    
+    e "Hhh... you make me laugh. You sure like watching JJK, huh?"
+    
+    a "Hehe... you caught me."
+    
+    e "I mean, I think I have the courage to tell you something... I like you, Aria. UwU."
+    
+    a "Yes... me too. I like you too."
+    
+    e "Wait, really? Wow, I never thought girls were this easy."
+    
+    a "Yes, I like you... but AS A BROTHER. MWUAH!"
+    
+    e "You know what? Let me die in peace..."
+
     $ MainMenu(confirm=False)()
+
     
 
 label true_secret_room:
@@ -268,7 +299,22 @@ label true_secret_room:
             "Yes better not"
             scene continue_research
             "They continue on looking for documents, everything left by her father"
-            jump ending4
+            "How Do you say 'D4C' (hint its jojo meme) "
+            scene MachinePassword
+            menu:
+                "Dirty Deeds Done Dirt Cheap":
+                    jump ending4
+                    play music "ending4music.mp3" fadein 1.0
+                "D 4 C":
+                    jump ending4
+                    play music "ending4music.mp3" fadein 1.0
+                "Divorceee":
+                    jump ending4
+                    play music "ending4music.mp3" fadein 1.0
+                "All of them are correct ":
+                    jump ending5
+                    play music "audio/good_ending2.mp3" fadein 1.0
+
 label ending3:
     stop music
     scene black with fade
@@ -286,10 +332,21 @@ label ending4:
     scene black with fade
     $ renpy.movie_cutscene("images/Ending4.webm")
     scene ending4
-    play music "audio/good_ending2.mp3" fadein 1.0
-    "In the end they succeded"
-    "They manage to defeat the goverment with their new found knowledge"
-    "The world becomes a better place"
-    "Good deeds have you done, warriors"
-    "The End."
+    play music "audio/ending4music.mp3" fadein 1.0
+    "In the end they Failed"
+    "Soooo CLose yet Sooo far "
+
     $ MainMenu(confirm=False)()
+
+label ending5:
+    stop music
+    scene black with fade 
+    $ renpy.movie_cutscene("images/Ending5.webm")
+    scene ending5
+    play music "audio/good_ending2.mp3" fadein 1.0
+    "the world know understand the true meaning of Freedom "
+    "they become icons for the yonger generation "
+    "and this all because of you "
+    "Thank you for playing "
+    $ MainMenu(confirm=False)()
+

@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "script.rpy", line 244: image statement expects a non-empty block.
+    image afterlife:
+                    ^
+
+File "script.rpy", line 246: expected statement.
+    zoom 0.35
+          ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Fri Mar 28 10:06:12 2025
