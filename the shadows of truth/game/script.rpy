@@ -2,24 +2,15 @@
 define e = Character("Elias", color="#397be7")
 image firstride = Movie(play="intro.mp4", size=(1820, 1024))
 # Define character images
-image aria normal = "aria_normal.png"
-image aria surprised = "aria_surprised.png"
-image aria uneasy = "aria_uneasy.png"
+image aria normal = "images/characters/aria/aria normal.png"
+image aria surprised = "images/characters/aria/aria surprised.png"
+image aria uneasy = "images/characters/aria/aria uneasy.png"
 
-image elias annoyed = "elias_annoyed.png"
-image elias chill = "elias_chill.png"
-image elias fight = "elias_fight.png"
-image elias meditating = "elias_meditating.png"
-image elias normal = "elias_normal.png"
-
-# Define transforms for consistent positioning
-transform aria_right:
-    zoom 1.7
-    ypos 1300
-    right
-
-transform elias_left:
-    left
+image elias annoyed = "images/characters/elias/elias annoyed.png"
+image elias chill = "images/characters/elias/elias chill.png"
+image elias fight = "images/characters/elias/elias fight.png"
+image elias meditating = "images/characters/elias/elias meditating.png"
+image elias normal = "images/characters/elias/elias normal.png"
 
 
 default firsttime = "true"
@@ -35,13 +26,11 @@ label start:
     label arias_room:
         play music "audio/aria.mp3"
         scene bg aria_room with fade
-        show girl at right:
-            zoom 1.7
-            ypos 1300
+        show aria normal at right
 
         a "Hi Elias"
 
-        show boy at left
+        show elias normal at left
         e "Oh, hi Aria"
 
         "They talked for hours.."
@@ -53,40 +42,32 @@ label start:
         menu:
             "Ask about the key":
                 scene key
-                show girl at right:
-                    zoom 1.7
-                    ypos 1300
+                show aria normal at right  
                 a "Oh that, the father left it to me.."
                 "She started telling him his story"
                 call father_scene
                 scene key_on_table
-                show girl at right:
-                    zoom 1.7
-                    ypos 1300
+                show aria normal at right
                 a "So yeah that's the story"
             "Take it without being seen":
                 scene key
-                show girl at right:
-                    zoom 1.7
-                    ypos 1300
+                show aria suprised at right:
+                    zoom 0.8
                 play audio "audio/sfx/hey.mp3"
                 a "Hey! What are you doing? Thats my precious key!"
-                hide girl
-                show boy at left
+                hide aria
+                show elias chill at left:
+                    zoom 0.3
                 e "Sorry my bad"
                 e "What is this key anyway?"
-                hide boy
-                show girl at right:
-                    zoom 1.7
-                    ypos 1300
+                hide elias
+                show aria normal at right
                 a "It all started back when ..."
                 "She started narrating"
                 call father_scene
                 scene key_on_table
                 play music "audio/aria.mp3"
-                show girl at right:
-                    zoom 1.7
-                    ypos 1300
+                show aria normal at right
                 a "So yeah that's the story"
         scene bg aria_room
         "Now what will they choose to do?"
@@ -96,10 +77,9 @@ label start:
             "Determined to seek out the truth":
                 scene aria_bed
                 play music "audio/determined.mp3"
-                show girl at right:
-                    zoom 1.7
-                    ypos 1300
-                show boy at left
+                show aria normal at right
+                show elias fight at left:
+                    zoom 0.38
                 "Elias and Arias" "Lets go!"
                 jump routes
     return
@@ -174,19 +154,17 @@ label archive:
     "The key fit perfectly, as expected"
     scene secret_room
     play music "audio/library.mp3"
-    show girl at right:
-        zoom 1.7
-        ypos 1300
+    show aria normal at right
     play audio "audio/sfx/wow.mp3"
     a "Wow! What a cozy looking room"
-    hide girl
-    show boy at left
+    hide aria
+    show elias meditating at left:
+        zoom 0.65
+        ypos 1.2
     e "But I don't think that's what we are searching for"
-    hide boy
-    show girl at right:
-        zoom 1.7
-        ypos 1300
+    hide elias
     scene chess_table
+    show aria uneasy at right
     a "Oh look! I think those are some chess puzzles"
     a "Let's solve them and see what happens"
     call chess_puzzle
@@ -261,28 +239,25 @@ label chess_puzzle:
 
 label ending2:
 
-    play music "audio/ending.mp3" fadein 0.5
-    scene ending2 with vpunch
-    "The entrance door gets shut down."
-    "They are now stuck here forever, leaving their own footprint, hoping someday somebody will find them."
-
-    stop music
-    scene black with fade  
+    # play music "audio/ending.mp3" fadein 0.5
+    # scene ending2 with vpunch
+    # "The entrance door gets shut down."
+    # "They are now stuck here forever, leaving their own footprint, hoping someday somebody will find them."
     
     # Video playback (ensure file is in game directory)
     $ renpy.movie_cutscene("Ending2.webm")  # Not in images/ folder!
     
     # Post-video transition
     play music "audio/Heaven.mp3" fadein 0.5
-    scene frozen with fade
-    show bg frozen with dissolve  # Assuming 'bg frozen' is fullscreen
+    # scene frozen with fade
+    # show bg frozen with dissolve  # Assuming 'bg frozen' is fullscreen
     
-    scene afterlife 
+    scene afterlife with fade
 
-    show boy at right
+    show elias normal at right
     e "Where are we?!"
     
-    show girl at left
+    show aria normal at left
     a "IDK... I think we’re in some kind of Domain Expansion or something."
     
     e "Hhh... you make me laugh. You sure like watching JJK, huh?"
