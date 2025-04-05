@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 244: expected simple expression
-    play music "audio/ending.mp3" fadein
-                                        ^
+File "game/script.rpy", line 163: expected 'simple_expression' not found.
+    ypos 
+         ^
 
 Ren'Py Version: Ren'Py 8.3.6.25022803
-Wed Mar 26 22:40:29 2025
+Fri Mar 28 12:48:53 2025

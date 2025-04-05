@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Lab1/the shadows of truth/game/cache/shaders.txt
 renpy.dissolve renpy.geometry
 renpy.dissolve renpy.dissolve
 renpy.solid
@@ -7,3 +8,14 @@ renpy.geometry renpy.texture
 renpy.alpha renpy.geometry renpy.texture
 renpy.geometry renpy.solid
 renpy.texture
+=======
+renpy.solid
+renpy.ftl
+renpy.texture
+renpy.alpha renpy.geometry renpy.texture
+renpy.geometry renpy.solid
+renpy.dissolve renpy.dissolve
+renpy.dissolve renpy.geometry
+renpy.alpha renpy.texture
+renpy.geometry renpy.texture
+>>>>>>> origin/main:the shadows of truth/game/cache/shaders.txt
