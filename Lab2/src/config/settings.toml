@@ -1,0 +1,16 @@
+[grid]
+width = 100
+height = 60
+cell_size = 10
+
+[colors]
+background   = "#1e1e1e"
+grid         = "#323232"
+shipment     = "#4682b4"
+demand       = "#3cb371"
+tariff_base  = "#b22222"
+tariff_recip = "#8b0000"
+
+[simulation]
+fps                   = 10
+tariff_shock_interval = 5
