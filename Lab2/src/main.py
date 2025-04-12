@@ -3,10 +3,10 @@ from simulation import Simulation
 
 pygame.init()
 
-GREY = (29, 29, 29)
-WINDOW_WIDTH = 1275
-WINDOW_HEIGHT = 725
-CELL_SIZE = 25
+CELL_BORDER = (28,37,60)
+WINDOW_WIDTH = 1280
+WINDOW_HEIGHT = 720
+CELL_SIZE = 10
 FPS = 12
 
 window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
@@ -49,7 +49,7 @@ while True:
 	simulation.update()
 
 	# 3. Drawing
-	window.fill(GREY)
+	window.fill(CELL_BORDER)
 	simulation.draw(window)
 
 	pygame.display.update()
