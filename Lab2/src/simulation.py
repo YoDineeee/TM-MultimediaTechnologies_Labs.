@@ -143,3 +143,7 @@ class Simulation:
         for row in range(self.rows):
             for col in range(self.columns):
                 self.grid.cells[row][col] = self.temp_grid.cells[row][col]
+
+    def draw(self, window):
+        self.grid.draw(window)
+        self.grid.draw_zone_overlay(window)
