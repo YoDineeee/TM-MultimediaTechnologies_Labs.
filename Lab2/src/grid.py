@@ -52,25 +52,29 @@ class Grid:
         )
     
     def draw_zone_overlay(self, window):
-        overlay_color = (0, 255, 255, 60)  # Neon blue with transparency
         zone_surface = pygame.Surface((self.columns * self.cell_size, self.rows * self.cell_size), pygame.SRCALPHA)
 
-        # Red Zone: top-right quarter
-        red_zone_rect = pygame.Rect(
-            self.columns * 3 // 4 * self.cell_size,
-            self.cell_size,  # start below top row
-            (self.columns // 4 - 1) * self.cell_size,
-            (self.rows // 4 - 1) * self.cell_size
-        )
-        pygame.draw.rect(zone_surface, overlay_color, red_zone_rect)
+        glow_fill = (0, 255, 255, 30)     # Soft neon interior
+        glow_border = (0, 255, 255, 120)  # Strong neon edge
 
-        # Green Zone: bottom-left quarter, excluding leftmost col and bottom row
-        green_zone_rect = pygame.Rect(
-            self.cell_size,  # start after first column
-            self.rows * 3 // 4 * self.cell_size,
-            (self.columns // 4 - 1) * self.cell_size,
-            (self.rows // 4 - 1) * self.cell_size
-        )
-        pygame.draw.rect(zone_surface, overlay_color, green_zone_rect)
+        # === RED ZONE (Top Right) ===
+        red_x = self.columns * 3 // 4 * self.cell_size
+        red_y = self.cell_size
+        red_w = (self.columns // 4 - 1) * self.cell_size
+        red_h = (self.rows // 4 - 1) * self.cell_size
+        red_rect = pygame.Rect(red_x, red_y, red_w, red_h)
+
+        pygame.draw.rect(zone_surface, glow_fill, red_rect)
+        pygame.draw.rect(zone_surface, glow_border, red_rect, width=2)
+
+        # === GREEN ZONE (Bottom Left) ===
+        green_x = self.cell_size
+        green_y = self.rows * 3 // 4 * self.cell_size
+        green_w = (self.columns // 4 - 1) * self.cell_size
+        green_h = (self.rows // 4 - 1) * self.cell_size
+        green_rect = pygame.Rect(green_x, green_y, green_w, green_h)
+
+        pygame.draw.rect(zone_surface, glow_fill, green_rect)
+        pygame.draw.rect(zone_surface, glow_border, green_rect, width=2)
 
         window.blit(zone_surface, (0, 0))

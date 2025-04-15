@@ -4,6 +4,9 @@ from simulation import Simulation
 
 pygame.init()
 
+icon = pygame.image.load("Lab2/src/icon.png")
+pygame.display.set_icon(icon)
+
 CELL_BORDER = (28, 37, 60)
 WINDOW_WIDTH = 1280
 WINDOW_HEIGHT = 720
@@ -11,7 +14,7 @@ CELL_SIZE = 10
 FPS = 12
 
 window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
-pygame.display.set_caption("Game of Life: Space Edition")
+pygame.display.set_caption("Space Game of Life")
 
 clock = pygame.time.Clock()
 simulation = Simulation(WINDOW_WIDTH, WINDOW_HEIGHT, CELL_SIZE)
