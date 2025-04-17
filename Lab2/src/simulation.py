@@ -138,6 +138,8 @@ class Simulation:
                     live_neighbors = self.count_live_neighbors(self.grid, row, col, 1)
                     if live_neighbors == 3:
                         self.temp_grid.cells[row][col] = 1
+                    elif in_green_zone and live_neighbors == 4:
+                        self.temp_grid.cells[row][col] = 1
 
         # Copy temp back to main grid
         for row in range(self.rows):
