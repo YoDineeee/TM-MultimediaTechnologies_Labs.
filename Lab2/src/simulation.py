@@ -1,5 +1,5 @@
+import os
 import random
-import numpy as np
 import pygame
 from grid import Grid
 
@@ -12,9 +12,19 @@ class Simulation:
         self.columns   = width  // cell_size
         self.running   = False
 
-        # Audio setup (must match pre_init in main.py)
-        self.sample_rate = 44100
-        self._tone_cache = {}
+        # Load piano samples
+        self.piano_notes = {}
+        self.load_piano()
+
+    def load_piano(self):
+        base_dir = os.path.join(os.path.dirname(__file__), "assets/piano")
+        notes = ['C4', 'C5','D4', 'E4', 'G4']
+        for note in notes:
+            path = os.path.join(base_dir, f"{note}.wav")
+            if os.path.isfile(path):
+                self.piano_notes[note] = pygame.mixer.Sound(path)
+            else:
+                print(f"Warning: piano sample '{note}.wav' not found in {base_dir}")
 
     def start(self):
         self.running = True
@@ -36,67 +46,46 @@ class Simulation:
 
     def count_live_neighbors(self, cells, row, col):
         offsets = [(-1,-1),(-1,0),(-1,1),(0,-1),(0,1),(1,-1),(1,0),(1,1)]
-        count = 0
-        for dr, dc in offsets:
-            nr, nc = (row + dr) % self.rows, (col + dc) % self.columns
-            if cells[nr][nc] == 1:
-                count += 1
-        return count
+        return sum(1 for dr,dc in offsets
+                   if cells[(row+dr) % self.rows][(col+dc) % self.columns] == 1)
 
-    def _get_tone(self, freq, duration=0.12, kind='sine'):
-        """Generate or retrieve a short Sound of given freq/duration."""
-        key = (freq, duration, kind)
-        if key in self._tone_cache:
-            return self._tone_cache[key]
-
-        length = int(self.sample_rate * duration)
-        t = np.linspace(0, duration, length, False)
-        if kind == 'sine':
-            wave = 0.2 * np.sin(2 * np.pi * freq * t)
-        else:
-            wave = 0.2 * np.sign(np.sin(2 * np.pi * freq * t))
-
-        audio = np.int16(wave * 32767)
-        sound = pygame.sndarray.make_sound(audio)
-        self._tone_cache[key] = sound
-        return sound
+    def play_piano(self, row):
+    
+        if not self.piano_notes:
+            return
+        notes = list(self.piano_notes.keys())
+        idx   = row % len(notes)
+        self.piano_notes[notes[idx]].play()
 
     def update(self):
         if not self.running:
             return
 
-        # Prepare temp grid
+        # Reset temp grid
         for r in range(self.rows):
             for c in range(self.columns):
                 self.temp_grid.cells[r][c] = 0
 
-        # Asteroid movement phase
+        # Asteroid movement phase (unchanged) …
         for r in range(self.rows):
             for c in range(self.columns):
                 if self.grid.cells[r][c] != 2:
                     continue
-                # If in green zone, revert to planet immediately
                 if self.grid.is_in_green_zone(r, c):
                     self.temp_grid.cells[r][c] = 1
                     continue
-
-                # Try to move/bounce
                 nbrs = [(-1,0),(1,0),(0,-1),(0,1),(-1,-1),(-1,1),(1,-1),(1,1)]
                 random.shuffle(nbrs)
                 moved = False
                 for dr, dc in nbrs:
-                    nr, nc = r + dr, c + dc
+                    nr, nc = r+dr, c+dc
                     if not (0 <= nr < self.rows and 0 <= nc < self.columns):
-                        # bounce
-                        br, bc = r - dr, c - dc
-                        nr, nc = br, bc
+                        nr, nc = r-dr, c-dc
                     if 0 <= nr < self.rows and 0 <= nc < self.columns:
                         if self.grid.is_in_green_zone(nr, nc):
                             self.temp_grid.cells[nr][nc] = 1
-                        elif self.grid.cells[nr][nc] in (0,1):
-                            self.temp_grid.cells[nr][nc] = (
-                                2 if self.grid.cells[nr][nc] == 0 else 2
-                            )
+                        else:
+                            self.temp_grid.cells[nr][nc] = 2
                         moved = True
                         break
                 if not moved:
@@ -112,21 +101,17 @@ class Simulation:
                 val = self.grid.cells[r][c]
                 in_red   = self.grid.is_in_red_zone(r, c)
                 in_green = self.grid.is_in_green_zone(r, c)
-                live_n   = self.count_live_neighbors(self.grid.cells, r, c)
+                n        = self.count_live_neighbors(self.grid.cells, r, c)
 
                 if val == 1:
-                    # Survival
-                    if live_n < 2 or live_n > 3:
+                    # Survival rules
+                    if n < 2 or n > 3:
                         self.temp_grid.cells[r][c] = 0
                     else:
-                        # Born/survive in red ⇒ asteroid
-                        if in_red:
-                            self.temp_grid.cells[r][c] = 2
-                        else:
-                            self.temp_grid.cells[r][c] = 1
+                        self.temp_grid.cells[r][c] = 2 if in_red else 1
                 else:
                     # Birth
-                    if live_n == 3:
+                    if n == 3:
                         self.temp_grid.cells[r][c] = 1
                         births.append((r, c))
 
@@ -135,11 +120,9 @@ class Simulation:
             for c in range(self.columns):
                 self.grid.cells[r][c] = self.temp_grid.cells[r][c]
 
-        # Sonify births
+        # Play piano notes for each birth
         for (r, c) in births:
-            freq = 200 + (r / self.rows) * 1000  # map row → 200–1200 Hz
-            tone = self._get_tone(freq, duration=0.1, kind='sine')
-            tone.play()
+            self.play_piano(r)
 
     def draw(self, window):
         self.grid.draw(window)
