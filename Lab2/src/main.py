@@ -4,7 +4,7 @@ from simulation import Simulation
 
 pygame.init()
 
-icon = pygame.image.load("Lab2/src/icon.png")
+icon = pygame.image.load("Lab2/src/assets/icon.png")
 pygame.display.set_icon(icon)
 
 CELL_BORDER = (28, 37, 60)

@@ -1,0 +1,12 @@
+
+
+Game of life strategy to make the music:
+*Play Only newborn cells 
+*Play only the highest note on each "string" ( the rightmost in each row )
+*Play only the highesst  newborn note on each "string"
+
+
+
+
+so i will use only the new born cells of the white cells and other cells will have a nother melody maybe 
+if that startegy is i will keep on focusing on the cells white 
