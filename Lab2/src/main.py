@@ -2,35 +2,40 @@ import pygame
 import sys
 from simulation import Simulation
 
+
+pygame.mixer.pre_init(44100, -16, 1, 128)  
 pygame.init()
 
-icon = pygame.image.load("Lab2/src/assets/icon.png")
-pygame.display.set_icon(icon)
 
-CELL_BORDER = (28, 37, 60)
+ICON_PATH    = "Lab2/src/assets/icon.png"
 WINDOW_WIDTH = 1280
-WINDOW_HEIGHT = 720
-CELL_SIZE = 10
-FPS = 12
+WINDOW_HEIGHT= 720
+CELL_SIZE    = 10
+FPS          = 12
+CELL_BORDER  = (28, 37, 60)
 
+
+icon = pygame.image.load(ICON_PATH)
+pygame.display.set_icon(icon)
 window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 pygame.display.set_caption("Space Game of Life")
 
-clock = pygame.time.Clock()
+clock      = pygame.time.Clock()
 simulation = Simulation(WINDOW_WIDTH, WINDOW_HEIGHT, CELL_SIZE)
 
-# Simulation Loop
+
 while True:
-    # Event Handling
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             pygame.quit()
             sys.exit()
+
+        # Toggle cells by mouse when paused
         if event.type == pygame.MOUSEBUTTONDOWN:
-            pos = pygame.mouse.get_pos()
-            row = pos[1] // CELL_SIZE
-            column = pos[0] // CELL_SIZE
-            simulation.toggle_cell(row, column)
+            row, col = pygame.mouse.get_pos()[1] // CELL_SIZE, pygame.mouse.get_pos()[0] // CELL_SIZE
+            simulation.toggle_cell(row, col)
+
+        # Keyboard controls
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_RETURN:
                 simulation.start()
@@ -40,20 +45,16 @@ while True:
                 pygame.display.set_caption("Game of Life has stopped")
             elif event.key == pygame.K_f:
                 FPS += 2
-            elif event.key == pygame.K_s:
-                if FPS > 5:
-                    FPS -= 2
+            elif event.key == pygame.K_s and FPS > 5:
+                FPS -= 2
             elif event.key == pygame.K_r:
                 simulation.create_random_state()
             elif event.key == pygame.K_c:
                 simulation.clear()
 
-    # Updating State
+    
     simulation.update()
-
-    # Drawing
     window.fill(CELL_BORDER)
     simulation.draw(window)
-
     pygame.display.update()
     clock.tick(FPS)
