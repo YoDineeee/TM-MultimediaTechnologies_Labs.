@@ -20,6 +20,10 @@ class Simulation:
 
     def stop(self):
         self.run = False
+    
+    def set_cell_alive(self, row, col):
+        self.grid.set_cell(row, col, 1)
+
 
     def clear(self):
         if not self.is_running():
@@ -76,9 +80,7 @@ class Simulation:
                         n_row = row + dr
                         n_col = col + dc
 
-                        # If it's out of bounds
                         if not (0 <= n_row < self.rows and 0 <= n_col < self.columns):
-                            # Try opposite direction
                             bounce_row = row - dr
                             bounce_col = col - dc
                             if 0 <= bounce_row < self.rows and 0 <= bounce_col < self.columns:
@@ -105,14 +107,11 @@ class Simulation:
                             elif self.grid.cells[n_row][n_col] == 0 and not moved:
                                 self.temp_grid.cells[n_row][n_col] = 2
                                 moved = True
-
                     if not moved:
                         self.temp_grid.cells[row][col] = 2
 
-        # GAME OF LIFE PHASE
         for row in range(self.rows):
             for col in range(self.columns):
-                # Skip asteroid-handled cells
                 if self.temp_grid.cells[row][col] != 0:
                     continue
 
@@ -149,3 +148,4 @@ class Simulation:
     def draw(self, window):
         self.grid.draw(window)
         self.grid.draw_zone_overlay(window)
+    

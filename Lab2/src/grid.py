@@ -51,6 +51,12 @@ class Grid:
             column > 0 and column < self.columns // 4
         )
     
+    # Inside your Grid class
+    def set_cell(self, row, col, value):
+        if 0 <= row < self.rows and 0 <= col < self.columns:
+            self.cells[row][col] = value  # Assuming self.cells is your 2D list
+
+
     def draw_zone_overlay(self, window):
         zone_surface = pygame.Surface((self.columns * self.cell_size, self.rows * self.cell_size), pygame.SRCALPHA)
 
