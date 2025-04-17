@@ -146,6 +146,6 @@ class Simulation:
                 self.grid.cells[row][col] = self.temp_grid.cells[row][col]
 
     def draw(self, window):
-        self.grid.draw(window)
+        self.grid.draw(window, self.run)  # Pass the running state
         self.grid.draw_zone_overlay(window)
     

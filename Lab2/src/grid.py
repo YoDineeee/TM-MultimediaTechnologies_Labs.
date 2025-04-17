@@ -8,21 +8,33 @@ class Grid:
         self.cell_size = cell_size
         self.cells = [[0 for _ in range(self.columns)] for _ in range(self.rows)]
 
-    def draw(self, window):
+    def draw(self, window, is_running=False):
         for row in range(self.rows):
             for column in range(self.columns):
                 cell_value = self.cells[row][column]
+                
+                # Default color (empty space)
+                color = (7, 7, 56)
+                
                 if cell_value == 1:
-                    color = (255, 255, 255)  # Planet (white)
+                    if is_running:
+                        # Show dying/living colors only when simulation is running
+                        alive_neighbors = self.count_neighbors(row, column, 1)
+                        
+                        if alive_neighbors < 2 or (not self.is_in_green_zone(row, column) and alive_neighbors > 3) or \
+                        (self.is_in_green_zone(row, column) and alive_neighbors > 6):
+                            color = (255, 60, 60)  # Dying cells (red)
+                        else:
+                            color = (60, 255, 60)  # Healthy cells (green)
+                    else:
+                        color = (255, 255, 255)  # White when not running
                 elif cell_value == 2:
                     color = (160, 160, 160)  # Asteroid (gray)
-                else:
-                    color = (7, 7, 56)       # Empty space
-
+                    
                 pygame.draw.rect(
                     window, color,
                     (column * self.cell_size, row * self.cell_size,
-                     self.cell_size - 1, self.cell_size - 1)
+                    self.cell_size - 1, self.cell_size - 1)
                 )
 
     def fill_random(self):
@@ -56,6 +68,16 @@ class Grid:
         if 0 <= row < self.rows and 0 <= col < self.columns:
             self.cells[row][col] = value  # Assuming self.cells is your 2D list
 
+    def count_neighbors(self, row, column, kind=1):
+        count = 0
+        neighbor_offsets = [(-1, -1), (-1, 0), (-1, 1),
+                        (0, -1), (0, 1), (1, -1), (1, 0), (1, 1)]
+        for offset in neighbor_offsets:
+            new_row = (row + offset[0]) % self.rows
+            new_col = (column + offset[1]) % self.columns
+            if self.cells[new_row][new_col] == kind:
+                count += 1
+        return count
 
     def draw_zone_overlay(self, window):
         zone_surface = pygame.Surface((self.columns * self.cell_size, self.rows * self.cell_size), pygame.SRCALPHA)
