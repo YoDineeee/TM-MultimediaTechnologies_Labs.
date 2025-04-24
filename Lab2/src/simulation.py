@@ -1,5 +1,7 @@
-from grid import Grid
 import random
+import pygame
+import numpy as np
+from grid import Grid
 
 class Simulation:
     def __init__(self, width, height, cell_size):
@@ -7,145 +9,150 @@ class Simulation:
         self.temp_grid = Grid(width, height, cell_size)
         self.rows = height // cell_size
         self.columns = width // cell_size
-        self.run = False
+        self.running = False
 
-    def draw(self, window):
-        self.grid.draw(window)
+        # Audio setup
+        self.sample_rate = 44100
+        self._tone_cache = {}
 
     def is_running(self):
-        return self.run
+        return self.running
 
     def start(self):
-        self.run = True
+        self.running = True
 
     def stop(self):
-        self.run = False
-    
-    def set_cell_alive(self, row, col):
-        self.grid.set_cell(row, col, 1)
-
+        self.running = False
 
     def clear(self):
-        if not self.is_running():
+        if not self.running:
             self.grid.clear()
 
     def create_random_state(self):
-        if not self.is_running():
+        if not self.running:
             self.grid.fill_random()
 
     def toggle_cell(self, row, column):
-        if not self.is_running():
+        if not self.running:
             self.grid.toggle_cell(row, column)
 
-    def count_live_neighbors(self, grid, row, column, kind=1):
+    def set_cell_alive(self, row, col):
+        self.grid.set_cell(row, col, 1)
+
+    def count_live_neighbors(self, cells, row, col):
+        offsets = [(-1, -1), (-1, 0), (-1, 1),
+                   (0, -1), (0, 1), (1, -1), (1, 0), (1, 1)]
         count = 0
-        neighbor_offsets = [(-1, -1), (-1, 0), (-1, 1),
-                            (0, -1), (0, 1), (1, -1), (1, 0), (1, 1)]
-        for offset in neighbor_offsets:
-            new_row = (row + offset[0]) % self.rows
-            new_col = (column + offset[1]) % self.columns
-            if grid.cells[new_row][new_col] == kind:
+        for dr, dc in offsets:
+            r = (row + dr) % self.rows
+            c = (col + dc) % self.columns
+            if cells[r][c] == 1:
                 count += 1
         return count
 
-    def get_neighbors(self, row, col):
-        offsets = [(-1, -1), (-1, 0), (-1, 1),
-                   (0, -1), (0, 1), (1, -1), (1, 0), (1, 1)]
-        return [((row + dr) % self.rows, (col + dc) % self.columns) for dr, dc in offsets]
+    def _get_tone(self, freq, duration=0.12, kind='sine'):
+        key = (freq, duration, kind)
+        if key in self._tone_cache:
+            return self._tone_cache[key]
+
+        length = int(self.sample_rate * duration)
+        t = np.linspace(0, duration, length, False)
+        if kind == 'sine':
+            wave = 0.2 * np.sin(2 * np.pi * freq * t)
+        else:
+            wave = 0.2 * np.sign(np.sin(2 * np.pi * freq * t))
+
+        audio = np.int16(wave * 32767)
+        audio_stereo = np.column_stack((audio, audio))
+        sound = pygame.sndarray.make_sound(audio_stereo)
+        self._tone_cache[key] = sound
+        return sound
 
     def update(self):
-        if not self.is_running():
+        if not self.running:
             return
+
+        births = []
 
         # Clear temp grid
         for row in range(self.rows):
             for col in range(self.columns):
                 self.temp_grid.cells[row][col] = 0
 
-                # ASTEROID MOVEMENT PHASE
-        for row in range(self.rows):
-            for col in range(self.columns):
-                if self.grid.cells[row][col] == 2:
-                    # Green zone check
-                    if self.grid.is_in_green_zone(row, col):
-                        self.temp_grid.cells[row][col] = 1
-                        continue
-
-                    neighbors = [(-1, 0), (1, 0), (0, -1), (0, 1),
-                                 (-1, -1), (-1, 1), (1, -1), (1, 1)]
-                    random.shuffle(neighbors)
-                    moved = False
-
-                    for dr, dc in neighbors:
-                        n_row = row + dr
-                        n_col = col + dc
-
-                        if not (0 <= n_row < self.rows and 0 <= n_col < self.columns):
-                            bounce_row = row - dr
-                            bounce_col = col - dc
-                            if 0 <= bounce_row < self.rows and 0 <= bounce_col < self.columns:
-                                if self.grid.is_in_green_zone(bounce_row, bounce_col):
-                                    self.temp_grid.cells[bounce_row][bounce_col] = 1
-                                    moved = True
-                                    break
-                                elif self.grid.cells[bounce_row][bounce_col] == 1:
-                                    self.temp_grid.cells[bounce_row][bounce_col] = 2
-                                    moved = True
-                                    break
-                                elif self.grid.cells[bounce_row][bounce_col] == 0 and not moved:
-                                    self.temp_grid.cells[bounce_row][bounce_col] = 2
-                                    moved = True
-                        else:
-                            if self.grid.is_in_green_zone(n_row, n_col):
-                                self.temp_grid.cells[n_row][n_col] = 1
-                                moved = True
-                                break
-                            elif self.grid.cells[n_row][n_col] == 1:
-                                self.temp_grid.cells[n_row][n_col] = 2
-                                moved = True
-                                break
-                            elif self.grid.cells[n_row][n_col] == 0 and not moved:
-                                self.temp_grid.cells[n_row][n_col] = 2
-                                moved = True
-                    if not moved:
-                        self.temp_grid.cells[row][col] = 2
-
-        for row in range(self.rows):
-            for col in range(self.columns):
-                if self.temp_grid.cells[row][col] != 0:
+        # Asteroid movement
+        for r in range(self.rows):
+            for c in range(self.columns):
+                if self.grid.cells[r][c] != 2:
                     continue
 
-                current_value = self.grid.cells[row][col]
-                in_green_zone = self.grid.is_in_green_zone(row, col)
-                in_red_zone = self.grid.is_in_red_zone(row, col)
+                if self.grid.is_in_green_zone(r, c):
+                    self.temp_grid.cells[r][c] = 1
+                    continue
 
-                if current_value == 1:
-                    live_neighbors = self.count_live_neighbors(self.grid, row, col, 1)
+                neighbors = [(-1, 0), (1, 0), (0, -1), (0, 1),
+                             (-1, -1), (-1, 1), (1, -1), (1, 1)]
+                random.shuffle(neighbors)
+                moved = False
 
-                    if in_red_zone and live_neighbors >= 2:
-                        self.temp_grid.cells[row][col] = 2
-                    elif live_neighbors < 2:
-                        self.temp_grid.cells[row][col] = 0
-                    elif in_green_zone and live_neighbors > 6:
-                        self.temp_grid.cells[row][col] = 0
-                    elif not in_green_zone and live_neighbors > 3:
-                        self.temp_grid.cells[row][col] = 0
+                for dr, dc in neighbors:
+                    nr, nc = r + dr, c + dc
+                    if not (0 <= nr < self.rows and 0 <= nc < self.columns):
+                        # Bounce
+                        nr, nc = r - dr, c - dc
+
+                    if 0 <= nr < self.rows and 0 <= nc < self.columns:
+                        if self.grid.is_in_green_zone(nr, nc):
+                            self.temp_grid.cells[nr][nc] = 1
+                            moved = True
+                            break
+                        elif self.grid.cells[nr][nc] == 1:
+                            self.temp_grid.cells[nr][nc] = 2
+                            moved = True
+                            break
+                        elif self.grid.cells[nr][nc] == 0 and not moved:
+                            self.temp_grid.cells[nr][nc] = 2
+                            moved = True
+
+                if not moved:
+                    self.temp_grid.cells[r][c] = 2
+
+        # Game of Life logic with birth detection
+        for r in range(self.rows):
+            for c in range(self.columns):
+                if self.temp_grid.cells[r][c] != 0:
+                    continue
+
+                val = self.grid.cells[r][c]
+                in_red = self.grid.is_in_red_zone(r, c)
+                in_green = self.grid.is_in_green_zone(r, c)
+                live_n = self.count_live_neighbors(self.grid.cells, r, c)
+
+                if val == 1:
+                    # Planet survival
+                    if live_n < 2 or (not in_green and live_n > 3) or (in_green and live_n > 6):
+                        self.temp_grid.cells[r][c] = 0
                     else:
-                        self.temp_grid.cells[row][col] = 1
+                        if in_red and live_n >= 2:
+                            self.temp_grid.cells[r][c] = 2
+                        else:
+                            self.temp_grid.cells[r][c] = 1
+                else:
+                    # Birth
+                    if live_n == 3 or (in_green and live_n == 4):
+                        self.temp_grid.cells[r][c] = 1
+                        births.append((r, c))
 
-                elif current_value == 0:
-                    live_neighbors = self.count_live_neighbors(self.grid, row, col, 1)
-                    if live_neighbors == 3:
-                        self.temp_grid.cells[row][col] = 1
-                    elif in_green_zone and live_neighbors == 4:
-                        self.temp_grid.cells[row][col] = 1
+        # Commit the new state
+        for r in range(self.rows):
+            for c in range(self.columns):
+                self.grid.cells[r][c] = self.temp_grid.cells[r][c]
 
-        # Copy temp back to main grid
-        for row in range(self.rows):
-            for col in range(self.columns):
-                self.grid.cells[row][col] = self.temp_grid.cells[row][col]
+        # Sonify births
+        for r, c in births:
+            freq = 200 + (r / self.rows) * 1000  # map row to frequency
+            tone = self._get_tone(freq)
+            tone.play()
 
     def draw(self, window):
-        self.grid.draw(window, self.run)  # Pass the running state
+        self.grid.draw(window, self.running)
         self.grid.draw_zone_overlay(window)
-    

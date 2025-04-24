@@ -5,6 +5,7 @@ from simulation import Simulation
 pygame.init()
 icon = pygame.image.load("Lab2/src/icon.png")
 pygame.display.set_icon(icon)
+pygame.mixer.pre_init(44100, -16, 1, 128)
 
 # Colors
 CELL_BORDER = (28, 37, 60)
